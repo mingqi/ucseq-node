@@ -1,0 +1,23 @@
+{
+  "name": "ucseq",
+  "description": "some functions on sequence",
+  "homepage": "https://github.com/mingqi/ucseq-node",
+  "keywords": [
+    "sequence"
+  ],
+  "author": "Mingqi Shao <shaomq@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mingqi/ucseq-node.git"
+  },
+  "main": "ucseq.js",
+  "version": "0.0.7",
+  "dependencies": {
+    "underscore" : "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
